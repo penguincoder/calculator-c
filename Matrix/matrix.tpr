@@ -1,0 +1,16 @@
+[Settings]
+Archive=0
+Pack=0
+Packed Variable=
+Project Name=matrix
+GCC Switches=-Os -Wall -W
+Assembler Switches=-g -t
+Linker Switches=
+GNU Linker Switches=
+BSR Patch=1
+Debug Info=0
+Standard Library=1
+Command Line=
+
+[Included Files]
+C File 1=matrix.c
